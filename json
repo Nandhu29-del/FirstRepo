@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "description": "A description of Product A.",
+      "price": 19.99,
+      "category": "Electronics",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "description": "A description of Product B.",
+      "price": 29.99,
+      "category": "Clothing",
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "description": "A description of Product C.",
+      "price": 39.99,
+      "category": "Home and Kitchen",
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "name": "Product D",
+      "description": "A description of Product D.",
+      "price": 49.99,
+      "category": "Books",
+      "stock": 15
+    }
+  ]
+}
